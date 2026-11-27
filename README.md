@@ -14,7 +14,7 @@ This repo is a showcase. The source code is closed, so you won't find the app or
 - Browse dispensaries by state, with a map and each store's current menu
 - Save favorite stores and products to an account (Google sign-in or email)
 
-Menus come from public dispensary menus and get refreshed through the day. The site is informational only. It doesn't sell anything or take orders.
+Menus are compiled from dispensary menus and refreshed through the day. The site is informational only. It doesn't sell anything or take orders.
 
 ## Scale
 
